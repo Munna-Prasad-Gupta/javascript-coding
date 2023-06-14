@@ -1,0 +1,15 @@
+/* ;aflj; */
+
+.title:before{
+    content: ">>";
+    color:aliceblue;
+}
+
+.title:after{
+    content:"<<";
+    color:aqua;
+}
+
+#munna{
+    text-align: justify;
+}

@@ -1,0 +1,16 @@
+*{
+    /* background-color: red; */
+}
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.TI9eyVJ5E8755o3jmBef0gHaHa?w=200&h=201&c=7&r=0&o=5&dpr=1.5&pid=1.7') ;
+    background-repeat: no-repeat;
+    background-position: center center;
+   background-attachment: inherit;
+    height: 200px;
+    background-color: aqua;
+    opacity: 0.5;
+}
+
+h1{
+    color:green;
+}
